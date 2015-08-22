@@ -1,0 +1,7 @@
+*.markdown
+*.vim
+*.sqlite3
+*.db
+*.bk
+*pyc
+*.session
